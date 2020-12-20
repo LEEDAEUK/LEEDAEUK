@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Majored in Computer Engineer out of Kongju National University in Korea
 - 💼 &nbsp; Working as a Web Development Associate at Haitex in Japan.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Front Design and Database.
-- ✍️ &nbsp; Pursuing Video Create as hobbies
+- ✍️ &nbsp; Film making as a hobby
 - :speech_balloon: &nbsp; Fluent in Korean and Japanese
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
