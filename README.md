@@ -35,7 +35,6 @@
 <br/>
 
 <a href="https://github.com/LEEDAEUK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEEDAEUK&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEDAEUK&theme=buefy&layout=compact" />
 </a>
 
