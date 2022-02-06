@@ -19,8 +19,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ☁️ &nbsp;
   ![AmazonAWS](https://img.shields.io/badge/-Ec2-333333?style=flat&logo=AmazonAWS)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=NGINX)
+  ![PM2](https://img.shields.io/badge/-PM2-333333?style=flat&logo=PM2)
 - 🛢 &nbsp;
   ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
   ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=MySQL)
